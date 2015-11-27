@@ -1,0 +1,10 @@
+\select@language {english}
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Idea}{1}{section.2}
+\contentsline {subsection}{\numberline {2.1}Porter's Five Forces}{1}{subsection.2.1}
+\contentsline {section}{\numberline {3}Business Canvas}{3}{section.3}
+\contentsline {section}{\numberline {4}Paradigms}{3}{section.4}
+\contentsline {section}{\numberline {5}Related Work}{3}{section.5}
+\contentsline {section}{\numberline {6}Bibliography}{3}{section.6}
+\contentsline {chapter}{Bibliography}{4}{section*.9}
