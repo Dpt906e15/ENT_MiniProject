@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.1)  7 DEC 2015 11:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.1)  7 DEC 2015 13:12
 entering extended mode
 **report
 (report.tex
@@ -1405,35 +1405,41 @@ ro-cess: Cau-sa-tion, Ef-fec-tu-a-tion, and Prag-ma-tism.\T1/ptm/m/n/10.95 "(Kr
 aaijenbrink). 
  []
 
-[13] <./pics/ESSSDM.png, id=244, 757.6305pt x 331.2375pt>
+[13] <./pics/ESSSDM.png, id=249, 757.6305pt x 331.2375pt>
 File: ./pics/ESSSDM.png Graphic file (type png)
 
 <use ./pics/ESSSDM.png>
-Package pdftex.def Info: ./pics/ESSSDM.png used on input line 15.
+Package pdftex.def Info: ./pics/ESSSDM.png used on input line 14.
 (pdftex.def)             Requested size: 416.69806pt x 182.18118pt.
  [14 <./pics/ESSSDM.png>]
 (text/RelatedWork/nature_of_entrepreneurial_process.tex [15]
-<./pics/gote.jpg, id=262, 374.14781pt x 71.51718pt>
+<./pics/gote.jpg, id=267, 374.14781pt x 71.51718pt>
 File: ./pics/gote.jpg Graphic file (type jpg)
  <use ./pics/gote.jpg>
 Package pdftex.def Info: ./pics/gote.jpg used on input line 23.
-(pdftex.def)             Requested size: 261.90167pt x 50.06168pt.
+(pdftex.def)             Requested size: 374.14688pt x 71.517pt.
 
-<./pics/gote_watchr.jpg, id=264, 374.14781pt x 234.8775pt>
+<./pics/gote_watchr.jpg, id=269, 374.14781pt x 234.8775pt>
 File: ./pics/gote_watchr.jpg Graphic file (type jpg)
 
 <use ./pics/gote_watchr.jpg>
-Package pdftex.def Info: ./pics/gote_watchr.jpg used on input line 34.
-(pdftex.def)             Requested size: 261.90167pt x 164.41312pt.
-)) [16 <./pics/gote.jpg> <./pics/gote_watchr.jpg>]
-[17] (report.lof)
+Package pdftex.def Info: ./pics/gote_watchr.jpg used on input line 33.
+(pdftex.def)             Requested size: 374.14688pt x 234.87692pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)) [16 <./pics/gote.jpg>] [17 <./pics/gote_watchr.jpg>] (report.lof)
 \tf@lof=\write6
- (report.bbl (report.brf)
+
+(report.bbl (report.brf)
 \tf@brf=\write7
-) [18
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 39.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)) [18
 
-]
-
+] 
 AED: lastpage setting LastPage
 [19]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
@@ -1444,24 +1450,24 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: E38C11847053445B169B1004221EA545;1299.
 Package rerunfilecheck Info: File `report.brf' has not changed.
-(rerunfilecheck)             Checksum: FEB6738A5920218E973230B94A27CA0D;761.
+(rerunfilecheck)             Checksum: D5A9014F536E2207C0388BB9E6DE3C64;859.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 31211 strings out of 493673
- 692788 string characters out of 3143963
+ 31254 strings out of 493673
+ 693358 string characters out of 3143963
  912773 words of memory out of 3000000
- 33834 multiletter control sequences out of 15000+200000
- 42339 words of font info for 70 fonts, out of 3000000 for 9000
+ 33870 multiletter control sequences out of 15000+200000
+ 42960 words of font info for 72 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  57i,13n,83p,1066b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on report.pdf (22 pages, 530273 bytes).
+s/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/tim
+es/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (22 pages, 543859 bytes).
 PDF statistics:
- 340 PDF objects out of 1000 (max. 8388607)
- 96 named destinations out of 1000 (max. 500000)
+ 353 PDF objects out of 1000 (max. 8388607)
+ 98 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 
